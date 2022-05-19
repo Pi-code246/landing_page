@@ -1,2 +1,1 @@
-# landing_page
-My first landing page
+This is a landing page I made as an exercise.
